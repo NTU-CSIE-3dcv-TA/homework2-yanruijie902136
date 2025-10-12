@@ -3,6 +3,10 @@ images/
 *.npy
 *.mp4
 *.mov
+*.db
+*.ply
+sparse/
+dense/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
