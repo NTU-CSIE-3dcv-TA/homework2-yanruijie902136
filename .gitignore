@@ -2,7 +2,6 @@ data/
 images/
 *.npy
 *.mp4
-*.mov
 *.db
 *.ply
 sparse/
