@@ -14,6 +14,8 @@ For problem 1, COLMAP is also required. We use COLMAP 3.12.6.
 
 For problem 2, please download the dataset from [here](https://drive.google.com/u/0/uc?export=download&confirm=qrVw&id=1GrCpYJFc8IZM_Uiisq6e8UxwVMFvr4AJ).
 
+You can view the homework demo [here](https://www.youtube.com/watch?v=W0JVzqYFp2s).
+
 ## Problem 1
 
 Suppose we've saved the poind cloud file as `sparse.ply` after using COLMAP GUI. Then to create a mesh we run
